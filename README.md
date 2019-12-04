@@ -1,3 +1,3 @@
 # About
 
-App for finding Github Users
+React App for finding Github Users
