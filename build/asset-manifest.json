@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f908478a.chunk.css",
+    "main.js": "/static/js/main.00ca5b7b.chunk.js",
+    "main.js.map": "/static/js/main.00ca5b7b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c04cd2bd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c04cd2bd.js.map",
+    "static/css/2.e515a07b.chunk.css": "/static/css/2.e515a07b.chunk.css",
+    "static/js/2.6a4a4a46.chunk.js": "/static/js/2.6a4a4a46.chunk.js",
+    "static/js/2.6a4a4a46.chunk.js.map": "/static/js/2.6a4a4a46.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5f896bb36a673669f4dd022e26d48df1.js": "/precache-manifest.5f896bb36a673669f4dd022e26d48df1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e515a07b.chunk.css.map": "/static/css/2.e515a07b.chunk.css.map",
+    "static/css/main.f908478a.chunk.css.map": "/static/css/main.f908478a.chunk.css.map",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c04cd2bd.js",
+    "static/css/2.e515a07b.chunk.css",
+    "static/js/2.6a4a4a46.chunk.js",
+    "static/css/main.f908478a.chunk.css",
+    "static/js/main.00ca5b7b.chunk.js"
+  ]
+}
